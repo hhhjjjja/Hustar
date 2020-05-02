@@ -1,2 +1,2 @@
-#코드설명
+#README
 [TISTORY BLOG](https://alliwannado-start.tistory.com/)
